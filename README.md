@@ -1,1 +1,1 @@
-# DentalClinic
+# Diş Kliniği Otomasyonu
